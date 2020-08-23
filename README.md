@@ -12,3 +12,7 @@ pip install youtube_dl
 [paste youtube link]
 
 backing track file will be downloaded to parent directory 
+
+
+
+** Please do not download any content that you do not already own **
