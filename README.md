@@ -2,7 +2,7 @@
 A Python script for removing center channel lead instruments from stereo audio files
 
 # Dependencies 
-pip install pydub \n
+pip install pydub, 
 pip install youtube_dl
 
 # Quick Start 
