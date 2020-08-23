@@ -1,5 +1,4 @@
 from __future__ import unicode_literals
-import pydub
 import youtube_dl
 from pydub import AudioSegment
 from pydub.playback import play
