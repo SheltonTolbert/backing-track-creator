@@ -56,18 +56,6 @@ right = right + center
 -left + right = (-left + -center) + (center + right)
  
 #the two center channels cancel out (center - center) and we are left with (-left + right)
- the pydub library to extract the left and right channels from a stereo track. By inverting the phase of the left channel and recombining the left and rioght channels, we are left with a track where the center channel is removed. 
-We can express this process in the following expression: 
-
-streo.mp3 = left + right
-
-left = left + center
-right = right + center 
--left = -left + -center 
-
--left + right = (-left + -center) + (center + right)
- 
-#the two center channels cancel out (center - center) and we are left with (-left + right)
 
 
 
