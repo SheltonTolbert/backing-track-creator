@@ -42,7 +42,7 @@ https://www.SheltonTolbert.com/api/btc?url='youtube-link'
 ```
 ** Please do not download any content that you do not already own **
 
-# How does it work? 
+# How does really it work? 
 
 The backing track creator utilises the pydub library to extract the left and right channels from a stereo track. By inverting the phase of the left channel and recombining the left and right channels, we are left with a track where the center channel is removed. 
 We can express this process in the following expression: 
